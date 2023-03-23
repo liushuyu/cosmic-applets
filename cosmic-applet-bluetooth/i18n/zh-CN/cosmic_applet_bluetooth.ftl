@@ -1,0 +1,12 @@
+bluetooth = 蓝牙
+other-devices = 其他蓝牙设备
+settings = 蓝牙设置…
+connected = 已连接
+confirm-pin = 请确认下面的 PIN 码与 {$deviceName} 上显示的 PIN 码一致
+confirm = 确认
+cancel = 取消
+unsuccessful = 配对失败
+check-device = 请确保 {$deviceName} 已打开，在信号范围内，并且可以配对。
+try-again = 重试
+discoverable = 可发现
+pairable = 可配对
