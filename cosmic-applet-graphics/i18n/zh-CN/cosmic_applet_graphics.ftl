@@ -1,0 +1,9 @@
+graphics-mode = 图形模式
+graphics = 图形
+integrated = 仅集成显卡
+integrated-desc = 会禁用外接显示器。需要重启。
+nvidia = NVIDIA
+hybrid = 多显卡
+hybrid-desc = 需要重启。
+compute = 高性能计算
+compute-desc = 会禁用外接显示器。需要重启。
