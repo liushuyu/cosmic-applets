@@ -1,0 +1,13 @@
+cosmic-applet-button = Cosmic 按钮
+battery = 节能
+battery-desc = 低性能但节约电力。
+balanced = 均衡
+balanced-desc = 平衡的性能和电池使用。
+performance = 高性能
+performance-desc = 高性能但高能耗。
+max-charge = 通过限制充电量至 80% 来延长电池的寿命
+seconds = 秒
+minutes = 分
+hours = 小时
+until-empty = 后耗尽
+power-settings = 电源和电池设置…
